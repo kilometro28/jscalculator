@@ -1,2 +1,2 @@
 # jscalculator
-A basic calculator builded with JavaScript
+a basic calculator builded with JavaScript
